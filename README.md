@@ -1,2 +1,2 @@
 # AI
-Artificial intelligence algorithm to determine the price of duvet ticket
+Artificial intelligence algorithm to determine the price of bus ticket
